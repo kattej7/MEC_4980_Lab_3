@@ -1,2 +1,2 @@
 # MEC_4980_Lab_3
-Week thermostat lab
+Week 3 thermostat lab
